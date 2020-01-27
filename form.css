@@ -1,0 +1,21 @@
+body {
+  background-image: linear-gradient(90deg, #585445, #9dadc7);
+}
+form {
+  
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  margin: 0 auto;
+  color: beige;
+}
+input{
+    border-radius: 3px;
+    border: 1px solid #cccccc;
+    height:20px;
+}
+button{
+    background-color:  #585445;
+    height:20px;
+    color: beige;
+}
